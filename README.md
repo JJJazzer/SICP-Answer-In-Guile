@@ -1,2 +1,2 @@
-# Answer for SICP
-This repo is recroding my solution procedure for SICP. 
+# *SICP* exercises
+This repo is record my solution procedure for SICP. 
